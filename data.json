@@ -1,0 +1,141 @@
+{
+  "question": [
+    "Q1. Little interest or pleasure in doing things",
+    "Q2. Feeling down, depressed or hopeless",
+    "Q3. Trouble falling asleep, staying asleep,or sleeping too much",
+    "Q4. Feeling tired or having little energy",
+	"Q5. Poor appetite or overeating",
+	"Q6. Feeling bad or failure about yourself",
+	"Q7. Trouble concentrating on things?",
+	"Q8. Moving or speaking so slowly that other people could have noticed.",
+	"Q9. Thoughts that you would be better off dead or of hurting yourself",
+	"Q10. average Bed Start Time",
+	"Q11. average Bed Wakeup Time",
+	"Q12. Average sleep Hours",
+    "Q13. Feeling bad about yourself or that you are a failure",
+    "Q14. Worrying too much about different things",
+    "Q15. Trouble concentrating on things, such as reading the newspaper",
+    "Q16. Not being able to stop or control worrying",
+    "Q17. Becoming easily annoyed or irritable",
+    "Q18. Difficulty concentrating on tasks, such as work or school"
+  ],
+  "answer": [
+    1,
+    2,
+    3,
+    2,
+	2,
+	3,
+	1,
+	2,
+	2,
+	1,
+	2,
+	3,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4
+  ],
+  "options": [
+
+    ["Never",
+      "twice or thrice in a week",
+      "More than half the time a day",
+      "Every day"
+    ],
+    ["Never",
+      "twice or thrice in a week",
+      "More than half the time a day",
+      "Every day"
+    ],
+    ["Never",
+      "twice or thrice in a week",
+      "More than half the time a day",
+      "Every day"
+    ],
+    ["Never",
+      "twice or thrice in a week",
+      "More than half the time a day",
+      "Every day"
+    ],
+	["Never",
+      "twice or thrice in a week",
+      "More than half the time a day",
+      "Every day"
+    ],
+	["Never",
+      "twice or thrice in a week",
+      "More than half the time a day",
+      "Every day"
+    ],
+	["Never",
+      "twice or thrice in a week",
+      "More than half the time a day",
+      "Every day"
+    ],
+	["Never",
+      "twice or thrice in a week",
+      "More than half the time a day",
+      "Every day"
+    ],
+	["Never",
+      "twice or thrice in a week",
+      "More than half the time a day",
+      "Every day"
+    ],
+	["before 10 Pm",
+      "after 10 before 12 am",
+      "after 12 am before 2 am",
+      "after 2 am"
+    ],
+	["before 6 am",
+      "after 6 am before 7 am",
+      "after 7 am before 8 am",
+      "after 8 am"
+    ],
+	["less than 5 hours",
+      "between 5 to 6 hours",
+      "between 6 to 7 hours",
+      "8 or above 8 hours"
+    ],
+    ["Rarely",
+      "Sometimes",
+      "Often",
+      "Always"
+    ],
+    ["Rarely",
+      "Sometimes",
+      "Often",
+      "Always"
+    ],
+    [
+      "Never",
+      "Occasionally",
+      "Most of the time",
+      "All the time"
+    ],
+    [
+      "Never",
+      "Occasionally",
+      "Frequently",
+      "Constantly"
+    ],
+    [
+      "Never",
+      "Occasionally",
+      "Frequently",
+      "Constantly"
+    ],
+    [
+      "Never",
+      "Occasionally",
+      "Most of the time",
+      "All the time"
+    ]
+  ]
+}
