@@ -203,8 +203,8 @@ class Quiz:
     def send_result_and_solution(self, stress_level, stress_percentage):
         if stress_percentage > 30:
             # Your Twilio Account SID and Auth Token
-            account_sid = 'AC77855193a8852281780d508240fcfdbf'
-            auth_token = '2c5814febe3e09c3113b7c6bb542c8dc'
+            account_sid = 'Twilio SID'
+            auth_token = 'Twilio token'
 
             try:
                 # Initialize Twilio Client
@@ -224,7 +224,7 @@ class Quiz:
                 message = client.m
                 essages.create(
                     body=full_message,
-                    from_='+13187589298',  # Twilio phone number
+                    from_='Twilio phone number',  # Twilio phone number
                     to=self.mobile_number
                 )
 
